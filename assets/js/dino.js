@@ -1,7 +1,7 @@
 import {
 	getCustomProperty,
 	incrementCustomProperty,
-	setCustomProperty
+	setCustomProperty,
 } from "./updateCustomProperty.js";
 
 const	dinoElem = document.querySelector('[data-dino]');
